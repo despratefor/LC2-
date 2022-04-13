@@ -1,0 +1,21 @@
+﻿生成启动时间为 2022/4/13 17:22:46。
+     1>项目“c:\Users\联想\documents\visual studio 2010\Projects\LC2两数相加\LC2两数相加\LC2两数相加.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\LC2两数相加.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\LC2两数相加.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt listNode.cpp
+         listNode.cpp
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\LC2两数相加.exe.embed.manifest.res" "Debug\LC2两数相加_manifest.rc" 
+       Link:
+         F:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\联想\documents\visual studio 2010\Projects\LC2两数相加\Debug\LC2两数相加.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LC2两数相加.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\联想\documents\visual studio 2010\Projects\LC2两数相加\Debug\LC2两数相加.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\联想\documents\visual studio 2010\Projects\LC2两数相加\Debug\LC2两数相加.lib" /MACHINE:X86 "Debug\LC2两数相加.exe.embed.manifest.res"
+         Debug\listNode.obj
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 ___tmainCRTStartup 中被引用
+     1>c:\users\联想\documents\visual studio 2010\Projects\LC2两数相加\Debug\LC2两数相加.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“c:\Users\联想\documents\visual studio 2010\Projects\LC2两数相加\LC2两数相加\LC2两数相加.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.73
